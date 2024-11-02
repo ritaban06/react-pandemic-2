@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pandemic-2/static/css/main.799e85e5.css",
+    "main.js": "/react-pandemic-2/static/js/main.ffa3d06a.js",
+    "static/js/453.e4e15a51.chunk.js": "/react-pandemic-2/static/js/453.e4e15a51.chunk.js",
+    "index.html": "/react-pandemic-2/index.html",
+    "main.799e85e5.css.map": "/react-pandemic-2/static/css/main.799e85e5.css.map",
+    "main.ffa3d06a.js.map": "/react-pandemic-2/static/js/main.ffa3d06a.js.map",
+    "453.e4e15a51.chunk.js.map": "/react-pandemic-2/static/js/453.e4e15a51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.ffa3d06a.js"
+  ]
+}
